@@ -75,7 +75,7 @@ a {
 
 header {
   height: 700px;
-  background-color: #131e27;
+  background-color:#ADF7B6;
   padding-top: 32px;
 }
 
@@ -85,7 +85,7 @@ header .logo {
 header h2 {
   font-size: 48px;
   text-align: center;
-  color: #fff;
+  color: #ADF7B6;
   margin: 120px 0 90px;
   font-weight: 600;
 }
@@ -103,15 +103,15 @@ header h2 {
 }
 
 .blue {
-  background: #033048;
+  background: #ADF7B6;
   color: #fff;
   font-size: 24px;
 }
 #benefits {
   padding: 100px 0 80px;
-}
+
 h3 {
-  color: #033048;
+  color: #ADF7B6;
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 40px;
@@ -124,7 +124,7 @@ h3 {
   margin: 30px 0 0 80px;
 }
 #testimonial {
-  background-color: #131e27;
+  background-color: #ADF7B6;
   padding: 70px 0 70px;
   color: #fff;
 }
